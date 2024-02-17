@@ -3,9 +3,6 @@ title: 'PosetMage Novels'
 layout: page
 ---
 
-
-
-
 ### [Arcanum](./Arcanum)
 
 
