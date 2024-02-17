@@ -1,7 +1,8 @@
 ---
 title: 'Arcanum'
-layout: page/novel/basic
+layout: page/novel/home
 categories: Arcanum
 
 ---
 
+Test
