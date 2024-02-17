@@ -27,9 +27,6 @@ description: Novel
 baseurl: "/Novel" # the subpath of your site, e.g. /blog
 repository: alchemymage/Novel
 
-include:
-  - _assets
-
 social:
   - platform: envelope
     url: mailto:alchemy@posetmage.com
