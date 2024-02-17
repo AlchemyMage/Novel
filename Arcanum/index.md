@@ -1,6 +1,6 @@
 ---
 title: 'Arcanum'
-layout: novel
+layout: page/novel/basic
 categories: Arcanum
 
 ---

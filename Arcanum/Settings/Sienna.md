@@ -1,6 +1,6 @@
 ---
 layout: 
-  "doc/character"
+  "page/design/character"
 
 Name: 
   "Sienna"
