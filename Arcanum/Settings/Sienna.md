@@ -2,7 +2,7 @@
 layout: 
   "page/design/character"
 
-Name: 
+title: 
   "Sienna"
 
 Image: 

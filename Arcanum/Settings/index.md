@@ -10,7 +10,10 @@ layout: base
 
 ## 人物設定
 
-[Sienna](./Sienna)
+* [Medina](./Medina)
+* [Cole](./Cole)
+* [Sienna](./Sienna)
+* [Claire](./Claire)
 
 ## World Map
 
