@@ -1,10 +1,12 @@
-# 2024_04_DM
+---
+layout: note/basic
+---
 
 ## 遭遇戰
 BGM 1: 
 https://www.youtube.com/watch?v=Cjofjt14mS4
 
-MAP: ![](https://dicegrimorium.com/wp-content/uploads/2022/04/WindingForestPathPublic-1024x1024.jpg)
+MAP: https://dicegrimorium.com/wp-content/uploads/2022/04/WindingForestPathPublic-1024x1024.jpg
 
 ### 轉場
 當天色逐漸暗下，厚重的雲層遮蔽了最後一抹陽光，周圍的森林也隨之沉入了一片暗淡之中。 小學徒們緊跟著A的步伐，腳下的落葉在寂靜的森林中發出沙沙的聲音，似乎每一步都在提醒著這不是一場普通的旅行。 周圍婆娑的樹影在微弱的光線中顯得格外詭異，就好像每一棵樹背後都隱藏著什麼不為人知的秘密。
