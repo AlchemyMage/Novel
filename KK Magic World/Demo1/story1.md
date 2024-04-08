@@ -34,11 +34,11 @@ A緊張地望向四周，輕聲告訴小學徒們，這片森林雖然平日看�
 ### 骰先攻
 
 ### 怪物1
-[數值](https://5etools.wayneh.tw/bestiary.html#%e5%b0%8f%e5%a6%96%e7%b2%be_mm)
+[數值](https://5etools.wayneh.tw/bestiary.html#%e5%93%a5%e5%b8%83%e6%9e%97_mm)
 
-![](https://5etools.wayneh.tw/img/bestiary/MM/Sprite.jpg)
+![](https://5etools.wayneh.tw/img/bestiary/MM/Goblin.jpg)
 
-![](https://5etools.wayneh.tw/img/MM/Sprite.png)
+![](https://5etools.wayneh.tw/img/MM/Goblin.png)
 
 
 ### 擊敗怪物1
