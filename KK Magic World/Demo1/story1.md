@@ -2,13 +2,13 @@
 layout: page/note/basic
 ---
 
-## 遭遇戰
+## 轉場
 BGM 1: 
 https://www.youtube.com/watch?v=Cjofjt14mS4
 
 MAP: https://dicegrimorium.com/wp-content/uploads/2022/04/WindingForestPathPublic-1024x1024.jpg
 
-### 轉場
+## 遭遇戰
 當天色逐漸暗下，厚重的雲層遮蔽了最後一抹陽光，周圍的森林也隨之沉入了一片暗淡之中。 小學徒們緊跟著A的步伐，腳下的落葉在寂靜的森林中發出沙沙的聲音，似乎每一步都在提醒著這不是一場普通的旅行。 周圍婆娑的樹影在微弱的光線中顯得格外詭異，就好像每一棵樹背後都隱藏著什麼不為人知的秘密。
 
 ![](./戰爭迷霧.webp)
@@ -68,3 +68,6 @@ https://www.youtube.com/watch?v=vufaPGtVtsw
 
 ![](https://5etools.wayneh.tw/img/MM/Hyena.png)
 
+### A君幫忙擊退
+
+由於這次敵人比較強，A君讓小學徒們合力擊敗其中一隻鬣狗，剩下的都由A君解決。
