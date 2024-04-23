@@ -10,9 +10,9 @@ cd assets
 ./upload.bat
 cd ../
 
-git config --local user.name "AlchemyMage"
-git config --local user.email "alchemy@posetmage.com"
-git remote set-url origin git@AM:AlchemyMage/Novel.git
+git config --local user.name "ShinraMage"
+git config --local user.email "shinra@posetmage.com"
+git remote set-url origin git@SH:ShinraMage/Novel.git
 
 git submodule update --recursive --remote
 
